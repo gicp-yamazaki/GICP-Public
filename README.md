@@ -109,6 +109,10 @@ add_filter('wp_resource_hints', 'remove_dns_prefetch', 10, 2);
 
 ```
 
+### 不要なソースの削除
+
+テーマに不要なソースコードは全て削除してください。
+
 ## cssの基本設定
 
 ### デバイスのbreakpointについて
